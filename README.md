@@ -15,6 +15,3 @@ Bu proje, Trendyol uygulamasının temel özelliklerini taklit eden bir React Na
 
 - https://fakestoreapi.com/
 
-## Ekran Görüntüsü
-
-![](src/assets//Ekran%20Resmi%202025-04-27%2000.51.16.png)
